@@ -29,7 +29,7 @@
 ---
 
 ## 4. Целевая модель `TO-BE` и бизнес-правила
-![TO-BE](https://github.com/MikhailRMA/BA/blob/main/cases/repeat-content-complaints-bpmn/TO-BE.svg)
+![TO-BE](https://github.com/MikhailRMA/BA/blob/main/cases/repeat-content-complaints-bpmn/TO_BE.svg)
 
 ### Бизнес-правила для процесса `TO-BE`:
 - **01 (Определение повторности):** если жалоба поступает по карточке впервые — задача идет по стандартному регламенту.
